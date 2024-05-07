@@ -67,17 +67,6 @@
   </tr>
 </table>
 
-
-## Connect Info
-
-<p align="left">
-  <a href = "mailto:sunshine02140214@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
-  <a target="_blank" href = "https://www.linkedin.com/in/sunshine0214214"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
-  <a target="_blank" href = "https://discordapp.com/users/1206442515150938123"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=blue"/></a>
-  <a target="_blank" href = "https://t.me/sunshine18920"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=blue"/></a>
-</p>
-
-
 ## Github Stats
 
 <!-- <p align="center">
