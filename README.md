@@ -70,16 +70,16 @@
 ## Github Stats
 
 <!-- <p align="center">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=sunshine0214&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunshine0214&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=CrystalskySunshine&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=CrystalskySunshine&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p> -->
 
   <br />
     <p align="center">
-        <a href="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sunshine0214&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact">
-            <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sunshine0214&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-            <img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sunshine0214&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
+        <a href="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CrystalskySunshine&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact">
+            <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CrystalskySunshine&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+            <img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CrystalskySunshine&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
         </a>
     </p>
 
@@ -89,14 +89,14 @@
 ## Profile Views:
 <!--
 <p align="center">
-    <a href="https://visitcount.itsvg.in/api?id=sunshine0214&label=Profile%20Views&color=6&icon=1&pretty=true">
-        <img src="https://visitcount.itsvg.in/api?id=sunshine0214&label=Profile%20Views&color=6&icon=1&pretty=true" alt="Profile Views">
+    <a href="https://visitcount.itsvg.in/api?id=CrystalskySunshine&label=Profile%20Views&color=6&icon=1&pretty=true">
+        <img src="https://visitcount.itsvg.in/api?id=CrystalskySunshine&label=Profile%20Views&color=6&icon=1&pretty=true" alt="Profile Views">
     </a>
 </p>
  -->
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=sunshine0214&label=Profile%20views&color=0e75b6&style=flat" alt="sunshine0214" /> 
-<!-- ![](https://komarev.com/ghpvc/?username=sunshine0214) -->
+ <img src="https://komarev.com/ghpvc/?username=CrystalskySunshine&label=Profile%20views&color=0e75b6&style=flat" alt="CrystalskySunshine" /> 
+<!-- ![](https://komarev.com/ghpvc/?username=CrystalskySunshine) -->
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" />
- <img alt="Profile followers" src="https://img.shields.io/github/followers/sunshine0214"> -->
+ <img alt="Profile followers" src="https://img.shields.io/github/followers/CrystalskySunshine"> -->
 </p>
