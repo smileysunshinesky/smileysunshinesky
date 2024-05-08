@@ -84,19 +84,3 @@
     </p>
 
 </p>
-
-
-## Profile Views:
-<!--
-<p align="center">
-    <a href="https://visitcount.itsvg.in/api?id=CrystalskySunshine&label=Profile%20Views&color=6&icon=1&pretty=true">
-        <img src="https://visitcount.itsvg.in/api?id=CrystalskySunshine&label=Profile%20Views&color=6&icon=1&pretty=true" alt="Profile Views">
-    </a>
-</p>
- -->
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=CrystalskySunshine&label=Profile%20views&color=0e75b6&style=flat" alt="CrystalskySunshine" /> 
-<!-- ![](https://komarev.com/ghpvc/?username=CrystalskySunshine) -->
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" />
- <img alt="Profile followers" src="https://img.shields.io/github/followers/CrystalskySunshine"> -->
-</p>
