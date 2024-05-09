@@ -79,9 +79,9 @@
 <p align="center">
     <a href="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smileysunshinesky&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact">
         <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smileysunshinesky&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-        <img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smileysunshinesky&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
+        <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smileysunshinesky&layout=donut&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true"/>
     </a>
 </p>
 
-<a href="http://www.github.com/smileysunshinesky"><img src="https://github-readme-stats.vercel.app/api?username=smileysunshinesky&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=prussian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Mr Rust's GitHub stats" />
+<a href="http://www.github.com/smileysunshinesky"><img src="https://github-readme-stats.vercel.app/api?username=smileysunshinesky&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=4b5563&hide_border=true&theme=prussian&show=reviews,prs_merged,prs_merged_percentage" alt="Sunshine's GitHub stats" />
 </a>
