@@ -79,7 +79,7 @@
 
 <br />
 <p align="center">
-    <a href="https://github.com/smileysunshinesky">
+    <a href="[https://github.com/smileysunshinesky](https://github-readme-stats.vercel.app/api?username=smileysunshinesky&rank_icon=percentile&count_private=true&hide_border=true&theme=prussian)">
         <img src="https://github-readme-stats.vercel.app/api?username=smileysunshinesky&rank_icon=percentile&count_private=true&hide_border=true&theme=prussian" alt="Sunshine's GitHub stats"/>
         <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smileysunshinesky&layout=compact&theme=prussian&show_icons=true&hide_border=true&exclude_repo=Soruko"/>
     </a>
