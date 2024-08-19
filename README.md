@@ -5,7 +5,6 @@
 
 - React.js, Next.js, Node.js / Express, MongoDB, Redux, Vite, Material-TailwindCSS
 
-
 ## Languages & Tools
 
 <table>
